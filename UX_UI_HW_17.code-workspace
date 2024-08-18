@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "UX_UI_HW_17",
+			"path": "."
+		},
+		{
+			"name": "Code_17-Week",
+			"path": "../../Code_17-Week"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "UX_UI_HW_17",
+		"liveServer.settings.port": 5501
+	}
+}
